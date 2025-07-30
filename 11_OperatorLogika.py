@@ -1,0 +1,12 @@
+# TERDAOAT DUA OPERATOR LOGIKA YAITU AND, OR
+# AND (JIKA TERDAPAT 2 TRUE MAKA HASILNYA TRUE, JIKA TERDAPAT 1 TRUE ATAU TIDAK ADA TRUE SAMA SEKALI HASILNYA FALSE)
+print(True and True)
+print(True and False)
+print(False and True)
+print(False and False)
+
+# OR (JIKA TERDAPAT 2 DAN 1 TRUE HARILNYA TRUE, JIKA TIDAK TERDAPAT TRUE SAMA SEKALI HASILNYA FLASE)
+print(True or True)
+print(True or False)
+print(False or True)
+print(False or False)
