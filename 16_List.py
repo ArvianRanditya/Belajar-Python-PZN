@@ -1,0 +1,15 @@
+# LIST BERFUNGSI UNTUK MEMBUAT VARIABLE MEMILIKI BANYAK NILAI SEHINGGA DAPAT MEMBUAT EFISIENSI VARIABEL
+nama = ["eko", "andi", "joko"] # CARA MEMBUAT LIST
+nama.append("supri") # CARA MENAMBAHKAN LIST
+
+print(nama[0]) # CARA MEMANGIL LIST DENGAN SESUAI URUTAN DIMULAI DARI 0
+print(nama[1])
+print(nama[2])
+print(nama[3])
+
+nama.remove("andi") # CARA MENGHAPUS LIST
+
+print(nama) # CARA MEMANGIL LIST KESELURUHAN
+
+nama[0] = "kurniawan" # CARA EDIT LIST
+print(nama)
